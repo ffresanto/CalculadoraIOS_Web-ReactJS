@@ -11,7 +11,7 @@ Este é um pequeno projeto desenvolvido totalmente em ReactJS, utilizando os com
 <img src="https://user-images.githubusercontent.com/44379238/148613210-0066d98d-f605-403c-ae53-dc871e26111c.gif" width="600px" />
 </div>
 
-## :computer: Recursos Utilizados: 
+## :computer: Recursos Utilizados:  
 
 Necessário realizar a instalação das aplicações/frameworks abaixo:
 
